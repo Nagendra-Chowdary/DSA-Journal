@@ -5,8 +5,9 @@ A repository for daily practice of Data Structures and Algorithms problems. This
 ## How This Repo Works
 
 - I add multiple DSA problems and their solutions daily.
+- I also include problem two-line explanation and leetcode link to the problems.
 - Problems cover various topics: arrays, linked lists, trees, graphs, dynamic programming, and more.
-- Solutions include code (usually in [your language]) and explanation.
+- Solutions include code (usually in C++) and explanation.
 - Feel free to explore, learn, and contribute!
 
 ## Goals
