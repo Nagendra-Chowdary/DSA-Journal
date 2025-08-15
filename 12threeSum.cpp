@@ -11,7 +11,7 @@ Notice that the solution set must not contain duplicate triplets.
 #include <iostream>
 #include <vector>
 #include <algorithm>
-using namespace std;
+using namespace std; 
 vector<vector<int>> threeSum(vector<int>& nums) {
     int curr=0;
     vector<vector<int>> res={};
