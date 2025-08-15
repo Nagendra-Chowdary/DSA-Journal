@@ -33,7 +33,7 @@ using namespace std;
             else{
             res.push_back(temp[j]);
             
-            j++;
+            j++; 
             }
         }
         while(i<nums.size()){
