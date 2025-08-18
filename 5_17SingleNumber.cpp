@@ -22,7 +22,7 @@ for(int i:nums){
 }
 return ans;
 }
-
+ 
 int main()
 {
     vector<int> nums={1,1,2};
