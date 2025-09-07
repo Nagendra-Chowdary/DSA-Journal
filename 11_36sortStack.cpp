@@ -11,7 +11,7 @@ stack<int> sortStack(stack<int> s){
             while(!temp.empty() && temp.top()>a){
                 s.push(temp.top());
                 temp.pop();
-            }
+            } 
             temp.push(a);
         }
         return temp;
